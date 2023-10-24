@@ -1,0 +1,4024 @@
+{
+    "statsVersion": "2.2.1",
+    "slippiJsVersion": "5.0.3",
+    "user_player_arg": "blip#341",
+    "results": {
+        "5e63c8e43ecacb8dd3238da9b42f4b82": {
+            "hash": "5e63c8e43ecacb8dd3238da9b42f4b82",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 20,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:31:35Z",
+                "lastFrame": 166,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NeysSpray",
+                            "code": "ROOT#877"
+                        },
+                        "characters": {
+                            "22": 299
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 299
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                0,
+                0
+            ],
+            "latestFramePercents": [
+                12,
+                15
+            ]
+        },
+        "2298acd854971632b3f1732aaac68b13": {
+            "hash": "2298acd854971632b3f1732aaac68b13",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 32,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 9,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:32:51Z",
+                "lastFrame": 7777,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Bard Pete",
+                            "code": "KTUN#750"
+                        },
+                        "characters": {
+                            "18": 11501
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 11501
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                0
+            ],
+            "latestFramePercents": [
+                155.93002319335938,
+                110.08000183105469
+            ]
+        },
+        "dd4cf93aabe0cfef1bd944bd670c2d93": {
+            "hash": "dd4cf93aabe0cfef1bd944bd670c2d93",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:35:54Z",
+                "lastFrame": 18628,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 20466
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Havior",
+                            "code": "HAVI#242"
+                        },
+                        "characters": {
+                            "18": 20466
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                2
+            ],
+            "latestFramePercents": [
+                78.8699951171875,
+                165.13177490234375
+            ]
+        },
+        "5831114a7f6a17b836cf8688de6d5c21": {
+            "hash": "5831114a7f6a17b836cf8688de6d5c21",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 22,
+                        "characterColor": 4,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:41:39Z",
+                "lastFrame": 13503,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "sft3830",
+                            "code": "SFT#921"
+                        },
+                        "characters": {
+                            "21": 15115
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 15115
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                0,
+                137.489990234375
+            ]
+        },
+        "32ff6ddaf12e00f80b5d636b3fcd0a5a": {
+            "hash": "32ff6ddaf12e00f80b5d636b3fcd0a5a",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 0,
+                        "characterColor": 5,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:45:50Z",
+                "lastFrame": 10469,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 11114
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "eisenhead",
+                            "code": "EISN#959"
+                        },
+                        "characters": {
+                            "2": 11114
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                93.41999816894531,
+                20.099998474121094
+            ]
+        },
+        "ab77c3ee5dfa7ae8e5c0a4e900a69cbd": {
+            "hash": "ab77c3ee5dfa7ae8e5c0a4e900a69cbd",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 32,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 9,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:49:40Z",
+                "lastFrame": 8667,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "RaFa(Keyboard)",
+                            "code": "RAFA#453"
+                        },
+                        "characters": {
+                            "18": 10018
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 10018
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                1
+            ],
+            "latestFramePercents": [
+                85.47000122070312,
+                29.559999465942383
+            ]
+        },
+        "ae318c56c518fcd1294505adb14f51ae": {
+            "hash": "ae318c56c518fcd1294505adb14f51ae",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 19,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:52:20Z",
+                "lastFrame": 10178,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Taco",
+                            "code": "TACO#627"
+                        },
+                        "characters": {
+                            "7": 12909,
+                            "19": 235
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 13144
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                1,
+                2
+            ],
+            "latestFramePercents": [
+                67.67051696777344,
+                193.010009765625
+            ]
+        },
+        "041829ee79625c4b8abd6558e3bcfb32": {
+            "hash": "041829ee79625c4b8abd6558e3bcfb32",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:55:45Z",
+                "lastFrame": 12447,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 12937
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "TOMR",
+                            "code": "TOMR#684"
+                        },
+                        "characters": {
+                            "18": 12937
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                77.05999755859375,
+                71.15065002441406
+            ]
+        },
+        "f47657dcb070c5dbd5969b09791a1e12": {
+            "hash": "f47657dcb070c5dbd5969b09791a1e12",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 9,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T07:59:25Z",
+                "lastFrame": 5755,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Galaxy515",
+                            "code": "GLXY#424"
+                        },
+                        "characters": {
+                            "18": 9454
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 9454
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                1
+            ],
+            "latestFramePercents": [
+                84.95256042480469,
+                0
+            ]
+        },
+        "50e6a3e230ded80cf392700f4753242d": {
+            "hash": "50e6a3e230ded80cf392700f4753242d",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 19,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:01:15Z",
+                "lastFrame": 6067,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Taco",
+                            "code": "TACO#627"
+                        },
+                        "characters": {
+                            "7": 8339,
+                            "19": 239
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 8578
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                1,
+                2
+            ],
+            "latestFramePercents": [
+                23.539854049682617,
+                49.9900016784668
+            ]
+        },
+        "7f48435b9d09406452791cc6088823e8": {
+            "hash": "7f48435b9d09406452791cc6088823e8",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 0,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:03:20Z",
+                "lastFrame": 9124,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Pieboe",
+                            "code": "WIEB#642"
+                        },
+                        "characters": {
+                            "2": 9647
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 9647
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                0,
+                0
+            ]
+        },
+        "59efaeadd96d842f28731b159e016d97": {
+            "hash": "59efaeadd96d842f28731b159e016d97",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:07:15Z",
+                "lastFrame": 11678,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 12357
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "TOMR",
+                            "code": "TOMR#684"
+                        },
+                        "characters": {
+                            "18": 12357
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                70.23999786376953,
+                57.510650634765625
+            ]
+        },
+        "9619b7e932bcb5b3fb67cf4cfe3c1be6": {
+            "hash": "9619b7e932bcb5b3fb67cf4cfe3c1be6",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:10:38Z",
+                "lastFrame": 13765,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 14278
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "TOMR",
+                            "code": "TOMR#684"
+                        },
+                        "characters": {
+                            "18": 14278
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                126.38999938964844,
+                126.25001525878906
+            ]
+        },
+        "12172203cad76b2e8ec5391ecfcedf5c": {
+            "hash": "12172203cad76b2e8ec5391ecfcedf5c",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 12,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:15:10Z",
+                "lastFrame": 12812,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Navylus",
+                            "code": "NAVY#700"
+                        },
+                        "characters": {
+                            "9": 13324
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 13324
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                39,
+                130.49200439453125
+            ]
+        },
+        "8722cad6a82dd70d628937656b1b7cd2": {
+            "hash": "8722cad6a82dd70d628937656b1b7cd2",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:20:05Z",
+                "lastFrame": 7216,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 7732
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "TinGod",
+                            "code": "TING#709"
+                        },
+                        "characters": {
+                            "18": 7732
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                78.13999938964844,
+                0
+            ]
+        },
+        "ec6713117108dd6afd989bc5e38dda64": {
+            "hash": "ec6713117108dd6afd989bc5e38dda64",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:22:45Z",
+                "lastFrame": 11467,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 12794
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Maxime2004",
+                            "code": "MAXI#358"
+                        },
+                        "characters": {
+                            "1": 12794
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                2
+            ],
+            "latestFramePercents": [
+                100.91999816894531,
+                109.27000427246094
+            ]
+        },
+        "9dcd39c7f82d6e39cb6a6d6fbb6ae096": {
+            "hash": "9dcd39c7f82d6e39cb6a6d6fbb6ae096",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:27:13Z",
+                "lastFrame": 9999,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 11223
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Maxime2004",
+                            "code": "MAXI#358"
+                        },
+                        "characters": {
+                            "1": 11223
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                149.17001342773438,
+                35.83000183105469
+            ]
+        },
+        "2cbadfe51922923904d73263f11c59b3": {
+            "hash": "2cbadfe51922923904d73263f11c59b3",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:30:07Z",
+                "lastFrame": 1204,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 1520
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Maxime2004",
+                            "code": "MAXI#358"
+                        },
+                        "characters": {
+                            "1": 1520
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                0
+            ],
+            "latestFramePercents": [
+                0,
+                0
+            ]
+        },
+        "1cbf515e4fedf617fbbd8fc9a0d1d783": {
+            "hash": "1cbf515e4fedf617fbbd8fc9a0d1d783",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-17T08:31:34Z",
+                "lastFrame": 191,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Maxime2004",
+                            "code": "MAXI#358"
+                        },
+                        "characters": {
+                            "1": 317
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 317
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                0,
+                0
+            ],
+            "latestFramePercents": [
+                0,
+                0
+            ]
+        },
+        "52f5733878ef46d63cf303d51c90c94d": {
+            "hash": "52f5733878ef46d63cf303d51c90c94d",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-18T15:46:21Z",
+                "lastFrame": 10878,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "kentir_buh",
+                            "code": "BUH#248"
+                        },
+                        "characters": {
+                            "12": 13927
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 13927
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                80.23999786376953,
+                76.16000366210938
+            ]
+        },
+        "92b04cda6bb06c7e8cb918482cdc815e": {
+            "hash": "92b04cda6bb06c7e8cb918482cdc815e",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 32,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 9,
+                        "characterColor": 4,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-18T15:49:35Z",
+                "lastFrame": 11644,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Txlfxn",
+                            "code": "GEES#172"
+                        },
+                        "characters": {
+                            "18": 12492
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 12492
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                110.4000015258789,
+                31.299999237060547
+            ]
+        },
+        "1e92f03dddccc24b54944220759683c8": {
+            "hash": "1e92f03dddccc24b54944220759683c8",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 20,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:12:37Z",
+                "lastFrame": 7246,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 7481
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Netplay Falco",
+                            "code": "TYSK#821"
+                        },
+                        "characters": {
+                            "22": 7481
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                1,
+                4
+            ],
+            "latestFramePercents": [
+                98.12999725341797,
+                24.189998626708984
+            ]
+        },
+        "9fa970b07ab43c6d3a52250d419d564a": {
+            "hash": "9fa970b07ab43c6d3a52250d419d564a",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 9,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:14:51Z",
+                "lastFrame": 9730,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Havior",
+                            "code": "HAVI#242"
+                        },
+                        "characters": {
+                            "18": 10442
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 10442
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                2
+            ],
+            "latestFramePercents": [
+                72.10999298095703,
+                20.31999969482422
+            ]
+        },
+        "044e5f722cd90cda69b945304266c189": {
+            "hash": "044e5f722cd90cda69b945304266c189",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 14,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:18:16Z",
+                "lastFrame": 17788,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 18501
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "KVLT",
+                            "code": "ROSW#692"
+                        },
+                        "characters": {
+                            "10": 18501,
+                            "11": 14786
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                158.5,
+                36.47999954223633
+            ]
+        },
+        "a95a5881f1dc52a2f7a1cd7d94fe2032": {
+            "hash": "a95a5881f1dc52a2f7a1cd7d94fe2032",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 14,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:23:21Z",
+                "lastFrame": 12250,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 12758
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "KVLT",
+                            "code": "ROSW#692"
+                        },
+                        "characters": {
+                            "10": 12758,
+                            "11": 9197
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                51.189998626708984,
+                9
+            ]
+        },
+        "5b98383303e8df753b7b4d11ea38f53a": {
+            "hash": "5b98383303e8df753b7b4d11ea38f53a",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 14,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:26:55Z",
+                "lastFrame": 15275,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 15963
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "KVLT",
+                            "code": "ROSW#692"
+                        },
+                        "characters": {
+                            "10": 15963,
+                            "11": 13639
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                137.44000244140625,
+                102.65445709228516
+            ]
+        },
+        "653f87ab136e48e403bc8613837accf1": {
+            "hash": "653f87ab136e48e403bc8613837accf1",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:31:56Z",
+                "lastFrame": 11000,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 12138
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 12138
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                72.68970489501953,
+                9
+            ]
+        },
+        "a785734219ef510856dad17a02199fc2": {
+            "hash": "a785734219ef510856dad17a02199fc2",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 20,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:35:09Z",
+                "lastFrame": 9489,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "22": 9850
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 9850
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                74.91999816894531,
+                12
+            ]
+        },
+        "13c915e0ed6e109a636b7671b64211d1": {
+            "hash": "13c915e0ed6e109a636b7671b64211d1",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 20,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:37:54Z",
+                "lastFrame": 12387,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "22": 13188
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 13188
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                121.6300048828125,
+                156.2100372314453
+            ]
+        },
+        "4781904b7105a0bdb85ff367a4624279": {
+            "hash": "4781904b7105a0bdb85ff367a4624279",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 32,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:41:29Z",
+                "lastFrame": 12362,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 13183
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 13183
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                117.49999237060547,
+                46.70000076293945
+            ]
+        },
+        "13df1e1c2b6894dfc0bfa62ca1ae987d": {
+            "hash": "13df1e1c2b6894dfc0bfa62ca1ae987d",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:45:03Z",
+                "lastFrame": 10311,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 10700
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 10700
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                0,
+                86.20999908447266
+            ]
+        },
+        "6ebfc9abf78d931c5c95dc5ae67e3039": {
+            "hash": "6ebfc9abf78d931c5c95dc5ae67e3039",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:48:03Z",
+                "lastFrame": 11204,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 11549
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 11549
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                59.790000915527344,
+                94.29000091552734
+            ]
+        },
+        "aec8a976dd767b4c01a1ed8ee15422a9": {
+            "hash": "aec8a976dd767b4c01a1ed8ee15422a9",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:51:17Z",
+                "lastFrame": 13526,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 14027
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 14027
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                136.47000122070312,
+                0
+            ]
+        },
+        "0944afcc3c707de63f588ab6d3d092c7": {
+            "hash": "0944afcc3c707de63f588ab6d3d092c7",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:55:10Z",
+                "lastFrame": 9288,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 10182
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 10182
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                2
+            ],
+            "latestFramePercents": [
+                96,
+                5.279999732971191
+            ]
+        },
+        "f2afb6aa3b02ff2ef124225631be5ac3": {
+            "hash": "f2afb6aa3b02ff2ef124225631be5ac3",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T09:57:54Z",
+                "lastFrame": 13053,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "1": 13665
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 13665
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                120.04000091552734,
+                95.9800033569336
+            ]
+        },
+        "e174d2ea1dce0ddd27a0d289cc22f431": {
+            "hash": "e174d2ea1dce0ddd27a0d289cc22f431",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 21,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-22T10:01:42Z",
+                "lastFrame": 15860,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "NalleGris",
+                            "code": "VOGL#535"
+                        },
+                        "characters": {
+                            "20": 16388
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 16388
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                121.69999694824219,
+                46.39699935913086
+            ]
+        },
+        "7805c5e62a95fbc01ab4ea05244c7104": {
+            "hash": "7805c5e62a95fbc01ab4ea05244c7104",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-23T07:50:51Z",
+                "lastFrame": 8000,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 9736
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Larvell Jones",
+                            "code": "LELZ#511"
+                        },
+                        "characters": {
+                            "1": 9736
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                1,
+                4
+            ],
+            "latestFramePercents": [
+                82.05999755859375,
+                0
+            ]
+        },
+        "1a6d9193b8e5b9f0802cc2c0336f14cb": {
+            "hash": "1a6d9193b8e5b9f0802cc2c0336f14cb",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-23T07:53:29Z",
+                "lastFrame": 19020,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 19482
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Dray",
+                            "code": "DRAY#354"
+                        },
+                        "characters": {
+                            "18": 19482
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                150.5145263671875,
+                105.2300033569336
+            ]
+        },
+        "12eed07ec8d94b5b5ab2dff85b4c4da2": {
+            "hash": "12eed07ec8d94b5b5ab2dff85b4c4da2",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 4,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-23T08:00:29Z",
+                "lastFrame": 12968,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 13344
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Helium",
+                            "code": "HELI#375"
+                        },
+                        "characters": {
+                            "18": 13344
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                3
+            ],
+            "latestFramePercents": [
+                156.8400115966797,
+                2
+            ]
+        },
+        "6b25cafc1968f8c3539f4cce6fb9fe74": {
+            "hash": "6b25cafc1968f8c3539f4cce6fb9fe74",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-23T08:52:10Z",
+                "lastFrame": 12204,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 12637
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "very rusty",
+                            "code": "RNDP#758"
+                        },
+                        "characters": {
+                            "1": 12637
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                76.55999755859375,
+                118.25493621826172
+            ]
+        },
+        "702dbcabbfa2d3f11dba36898ab27dfb": {
+            "hash": "702dbcabbfa2d3f11dba36898ab27dfb",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 18,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:00:51Z",
+                "lastFrame": 10497,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "yanounai",
+                            "code": "YYYY#761"
+                        },
+                        "characters": {
+                            "19": 11949
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 11949
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                7,
+                44.65999984741211
+            ]
+        },
+        "150a2c2afe3879b97c8fcaa7a628baf0": {
+            "hash": "150a2c2afe3879b97c8fcaa7a628baf0",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 19,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 17,
+                        "characterColor": 1,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:04:36Z",
+                "lastFrame": 10050,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Nolram",
+                            "code": "NOLR#933"
+                        },
+                        "characters": {
+                            "7": 10348
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "14": 10348
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                1
+            ],
+            "latestFramePercents": [
+                24.619998931884766,
+                83.47999572753906
+            ]
+        },
+        "52e3401aa40091d2cdcccda9ebf1290a": {
+            "hash": "52e3401aa40091d2cdcccda9ebf1290a",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 22,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:08:31Z",
+                "lastFrame": 7763,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 9531
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "JGGR",
+                            "code": "JGGR#690"
+                        },
+                        "characters": {
+                            "21": 9531
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                1
+            ],
+            "latestFramePercents": [
+                95.30999755859375,
+                24.529998779296875
+            ]
+        },
+        "f1d5cc18c5508018de981baf580f4995": {
+            "hash": "f1d5cc18c5508018de981baf580f4995",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 25,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:11:06Z",
+                "lastFrame": 3245,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Etharis",
+                            "code": "ETHA#388"
+                        },
+                        "characters": {
+                            "25": 3393
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 3393
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                0,
+                1
+            ],
+            "latestFramePercents": [
+                134.35000610351562,
+                44.75
+            ]
+        },
+        "b2859af4ff9f2694d053f0571843c743": {
+            "hash": "b2859af4ff9f2694d053f0571843c743",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 20,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:12:16Z",
+                "lastFrame": 7421,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 9156
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "crampte",
+                            "code": "SK#283"
+                        },
+                        "characters": {
+                            "22": 9156
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                9.550000190734863,
+                58.87999725341797
+            ]
+        },
+        "7f946a3923fa669defe2476bcee034f6": {
+            "hash": "7f946a3923fa669defe2476bcee034f6",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 9,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:14:32Z",
+                "lastFrame": 12144,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 12771
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "crampte",
+                            "code": "SK#283"
+                        },
+                        "characters": {
+                            "18": 12771
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                96.15249633789062,
+                54.98999786376953
+            ]
+        },
+        "7be81aa2851db713d9f3ef6dc85a5f4d": {
+            "hash": "7be81aa2851db713d9f3ef6dc85a5f4d",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 20,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:18:04Z",
+                "lastFrame": 10743,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 13234
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "crampte",
+                            "code": "SK#283"
+                        },
+                        "characters": {
+                            "22": 13234
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                1,
+                4
+            ],
+            "latestFramePercents": [
+                89.04000091552734,
+                150.44000244140625
+            ]
+        },
+        "f0ffc67142eac32de50bc0092b4af92b": {
+            "hash": "f0ffc67142eac32de50bc0092b4af92b",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 20,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:21:11Z",
+                "lastFrame": 12842,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 15103
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "crampte",
+                            "code": "SK#283"
+                        },
+                        "characters": {
+                            "22": 15103
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                2
+            ],
+            "latestFramePercents": [
+                18.619998931884766,
+                100.80000305175781
+            ]
+        },
+        "5cb90e7e747a05bd8b47ba01082f55ef": {
+            "hash": "5cb90e7e747a05bd8b47ba01082f55ef",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 20,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:25:26Z",
+                "lastFrame": 5839,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 12028
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "JGGR",
+                            "code": "JGGR#690"
+                        },
+                        "characters": {
+                            "22": 12028
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                91.26000213623047,
+                70.40999603271484
+            ]
+        },
+        "3f6a81c1b64d17f5547a515d63e88264": {
+            "hash": "3f6a81c1b64d17f5547a515d63e88264",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 3,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:28:21Z",
+                "lastFrame": 9281,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 10264
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Joogny",
+                            "code": "JGNY#608"
+                        },
+                        "characters": {
+                            "1": 10264
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                1,
+                4
+            ],
+            "latestFramePercents": [
+                131.1099853515625,
+                74.5999984741211
+            ]
+        },
+        "7cbcdf6f4e5984b20c6ab4dc4ba17881": {
+            "hash": "7cbcdf6f4e5984b20c6ab4dc4ba17881",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 8,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 1,
+                        "characterColor": 3,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-24T10:31:26Z",
+                "lastFrame": 11480,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "tartesauxpoires",
+                            "code": "TART#110"
+                        },
+                        "characters": {
+                            "3": 11651
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 11651
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                94.29273223876953,
+                0
+            ]
+        },
+        "1ec1043c7ec419723122c804c77822a7": {
+            "hash": "1ec1043c7ec419723122c804c77822a7",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 20,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T09:26:47Z",
+                "lastFrame": 7501,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Rene Coty",
+                            "code": "RENE#378"
+                        },
+                        "characters": {
+                            "22": 12381
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 12381
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                31.279998779296875,
+                42
+            ]
+        },
+        "52b822a59d2d55b46a2e06cda7629fef": {
+            "hash": "52b822a59d2d55b46a2e06cda7629fef",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T09:30:05Z",
+                "lastFrame": 8726,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Bassos",
+                            "code": "BASS#720"
+                        },
+                        "characters": {
+                            "1": 9302
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 9302
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                2,
+                4
+            ],
+            "latestFramePercents": [
+                25.200000762939453,
+                74.5
+            ]
+        },
+        "623f28b7d71ea4ec96f14e56b173ad81": {
+            "hash": "623f28b7d71ea4ec96f14e56b173ad81",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T09:32:38Z",
+                "lastFrame": 15558,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "Bassos",
+                            "code": "BASS#720"
+                        },
+                        "characters": {
+                            "1": 17526
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 17526
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                0,
+                123.4900131225586
+            ]
+        },
+        "e6c57b0b87e5905b1daf133e99cb7973": {
+            "hash": "e6c57b0b87e5905b1daf133e99cb7973",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 0,
+                        "characterColor": 5,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T10:00:41Z",
+                "lastFrame": 18571,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "cass",
+                            "code": "CASS#281"
+                        },
+                        "characters": {
+                            "2": 20292
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 20292
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                3
+            ],
+            "latestFramePercents": [
+                31.099998474121094,
+                73.36000061035156
+            ]
+        },
+        "2d17dd851dd33a547bee9c252741f7b5": {
+            "hash": "2d17dd851dd33a547bee9c252741f7b5",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 10,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T10:06:35Z",
+                "lastFrame": 14152,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "piuu",
+                            "code": "ABC#952"
+                        },
+                        "characters": {
+                            "16": 18476
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 18476
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                4,
+                1
+            ],
+            "latestFramePercents": [
+                172.8000030517578,
+                64.99889373779297
+            ]
+        },
+        "e821870fc8cec63ef284f42a93f0df04": {
+            "hash": "e821870fc8cec63ef284f42a93f0df04",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 28,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 19,
+                        "characterColor": 4,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T10:11:22Z",
+                "lastFrame": 14609,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 35754
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Ceos",
+                            "code": "CEOS#303"
+                        },
+                        "characters": {
+                            "7": 35754
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                123.3117904663086,
+                13.369999885559082
+            ]
+        },
+        "de48e224932cc557778b769dee40e312": {
+            "hash": "de48e224932cc557778b769dee40e312",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 31,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 13,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-25T10:16:11Z",
+                "lastFrame": 14617,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "12": 19310
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "Charliew12",
+                            "code": "CHAR#421"
+                        },
+                        "characters": {
+                            "1": 19310
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                136.6999969482422,
+                0
+            ]
+        },
+        "2b5fb01274eb9c40b8e7d6863e93860a": {
+            "hash": "2b5fb01274eb9c40b8e7d6863e93860a",
+            "settings": {
+                "slpVersion": "3.14.0",
+                "isTeams": false,
+                "isPAL": false,
+                "stageId": 2,
+                "players": [
+                    {
+                        "playerIndex": 0,
+                        "port": 1,
+                        "characterId": 19,
+                        "characterColor": 0,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 1,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    },
+                    {
+                        "playerIndex": 1,
+                        "port": 2,
+                        "characterId": 2,
+                        "characterColor": 2,
+                        "startStocks": 4,
+                        "type": 0,
+                        "teamId": 0,
+                        "controllerFix": "UCF",
+                        "nametag": ""
+                    }
+                ],
+                "scene": 2,
+                "gameMode": 8
+            },
+            "metadata": {
+                "startAt": "2023-05-31T10:16:50Z",
+                "lastFrame": 16246,
+                "players": {
+                    "0": {
+                        "names": {
+                            "netplay": "grrrwoaf",
+                            "code": "GRRR#188"
+                        },
+                        "characters": {
+                            "7": 16649
+                        }
+                    },
+                    "1": {
+                        "names": {
+                            "netplay": "BlipBlip",
+                            "code": "BLIP#341"
+                        },
+                        "characters": {
+                            "1": 16649
+                        }
+                    }
+                },
+                "playedOn": "dolphin"
+            },
+            "stats": [
+                3,
+                4
+            ],
+            "latestFramePercents": [
+                109.91000366210938,
+                68.76000213623047
+            ]
+        }
+    }
+}
